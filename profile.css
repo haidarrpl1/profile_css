@@ -1,0 +1,32 @@
+*{
+  margin: 0;
+  padding: 0;
+  font.family:'Cambria', sans-serif;
+}
+.bg {
+background-image: url('background.jpg');
+background-size: cover;
+background-repeat:no-repeat;
+height:120%;
+}
+
+.photo {
+  width: 150px;
+  height: 150px;
+}
+
+.title {
+  color:#FFFFFF;
+  margin: 10px auto;
+  text-align: center;
+}
+
+.centerbox {
+  width: 500px;
+  border: 1pc solid #FFFFFF;
+  margin: p auto;
+  padding: 15px;
+  background -color: rgba(0, 0, 0, 0,5);
+  color: #FFFFFF;
+  text-align: center;
+}
